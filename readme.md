@@ -4,4 +4,4 @@ Features
 
 Normal Calculator with Basic Functionalities
 
-<img style='width: 600px' src="Calci.png"></img>
+<img style='width: 300px' src="Calci.png"></img>
